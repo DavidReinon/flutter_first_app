@@ -1,0 +1,13 @@
+Aplicación que tenga:
+
+Navegacioón adaptativa: Para movil una bara de navegación debajo y para pantallas mas grandes o pc
+barra de navegación al lado.
+
+Una pantalla donde se gestionen listas y estados con BloC.
+
+Otra pantalla donde se utilize una API de prueba.
+
+Otra pantalla donde se muestren formularios.
+
+
+
